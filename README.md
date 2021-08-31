@@ -2,21 +2,25 @@
 
 ### Os testes automatizados foram realizados em http://way2automation.com/way2auto_jquery/index.php.
 
+## Pré-requisitos:
+- Instalar o Node.JS
+- Instalar o VS Code
+
+
 ## Recursos e ferramentas utilizadas:
 - Cypress
 - Linguagem de programação JavaScript
 - Mocha
-- VS Code
 
 
 ## Utilizar esse projeto:
-Clonar esse respositório:
+- Clonar esse respositório:
 git clone https://github.com/douglas9souza/projetoCypress.git
 
 
-Instalar dependências:
+- Instalar dependências:
 npm install
 
 
-Executar:
+- Executar:
 npm run cypress
